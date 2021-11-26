@@ -1,0 +1,17 @@
+This file provides timestamps for events in the capture files. 
+Hub = Amazon Echo+
+
+   Address                      MAC                        Manufacturer     Device
+  0x9b8c  24:fd:5b:00:01:0b:5a:6b                   SmartThings, Inc.       SMT Door Sensor (11:33:54)
+  0xca8b  00:0d:6f:00:10:c9:70:fb                   Ember Corporation       Yale Lock (11:33:40)
+  0x43b0  b0:ce:18:14:00:01:2a:02  Zhejiang shenghui lighting co.,Ltd       Sengled colored bulb (11:34:22, 11:35:02, 11:35:14(color))
+  0x9135  b0:ce:18:14:03:3b:30:23  Zhejiang shenghui lighting co.,Ltd       Sengled White Bulb (11:34:39, 11:35:04)
+  0x46ce  08:6b:d7:ff:fe:6e:6d:99                Silicon Laboratories       Centralite Outlet (11:35:12)
+  0x1492  28:6d:97:00:01:11:01:c1                    SAMJIN Co., Ltd.       SMT Motion Sensor (11:34:52)
+  0xda6d  24:fd:5b:00:01:04:50:a5                   SmartThings, Inc.       SMT Outlet (11:35:09)
+  0x55a1  00:12:4b:00:22:ee:28:a8                   Texas Instruments       Sonoff outlet (11:35:14)
+
+
+Please note that the tool runs on encrypted capture. In order to view the decrypted traffic, first add the keys at Edit > Preferences > Protocols> Zigbee > Keys. 
+Default link key: 5A6967426565416C6C69616E63653039
+Network key: 51f368e8bbeee4618a3047cfdc8730aa and 59c182265a5e4f2d69ba780d49841772 and 68dca9b4b9ff1c09ecbd02bd2e5cd684 and 3c3465cf5c9eb97dbdb187050842224e

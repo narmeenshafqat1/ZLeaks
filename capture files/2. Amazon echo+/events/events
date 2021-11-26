@@ -1,0 +1,56 @@
+This file provides timestamps for events in the capture files. 
+Hub = Amazon Echo+
+
+SMT motion sensor v1 
+Motion detected: 1:49:04, 1:49:33, 1:50:25
+
+SMT motion sensor v2
+Motion detected: 1:58:01, 1:59:00, 1:59:32, 2:00:05
+
+SMT door sensor 
+Opened/ closed: 1:39:02, 1:39:31, 1:40:01, 1:40:33, 1:41:01, 1:41:31   
+			
+Yale Lock
+Locked/ unlocked: 5:34:32, 5:35:02, 5:35:34, 5:36:06 
+
+Schlage Lock
+Locked/ unlocked: 18:21:00
+
+plug_centralite
+On/off: 23:51:31, 23:52:01, 23:52:31, 23:53:01
+
+plug_ewelink
+On/off: 2:12:29, 2:13:00, 2:13:37, 2:14:00
+
+plug_smt
+On/off: 2:04:01, 2:04:30, 2:05:01
+
+sonoff
+On/off: 21:38:02, 21:38:32, 21:39:03, 21:40:01, 21:40:32
+
+plug_aqara
+On/off: 17:22:01, 17:22:32, 17:23:05, 17:23:40, 17:24:02, 17:24:33, 17:25:04 
+
+bulb1_sengledc
+On/off: 22:30:33, 22:31:03, 22:31:32, 22:32:02
+level control: 22:35:32, 22:36:01
+
+bulb1_sengledw
+On/off: 22:09:03, 22:10:02, 22:11:01, 22:11:34, 22:12:02
+
+bulb2_samsung 
+On/off: 22:42:34, 22:43:02, 22:43:32, 22:44:04
+
+bulb2_sylvaniac
+On/off: 22:20:03, 22:20:35, 22:21:04, 22:22:01
+color control: 22:26:03, 22:26:37
+
+bulb_philipsc
+on/off: 12:09:02, 12:09:32, 12:10:02, 12:10:32, 12:11:02, 12:11:35
+
+bulb_philipsw
+on: 9:19:58, 9:21:59
+
+Please note that the tool runs on encrypted capture. In order to view the decrypted traffic, first add the keys at Edit > Preferences > Protocols> Zigbee > Keys. 
+Default link key: 5A6967426565416C6C69616E63653039
+Network key: 51f368e8bbeee4618a3047cfdc8730aa and 59c182265a5e4f2d69ba780d49841772 and 68dca9b4b9ff1c09ecbd02bd2e5cd684 and 3c3465cf5c9eb97dbdb187050842224e

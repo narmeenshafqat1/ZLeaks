@@ -1,0 +1,12 @@
+This file provides timestamps for events in the capture files. 
+Hub = Philips Hue Bridge
+
+bulb_philipsc
+on/off: 5:12:04, 5:12:34, 
+
+bulb_philipsw
+on/ off: 3:37:31, 3:38:00, 3:38:30, 3:39:01
+
+Please note that the tool runs on encrypted capture. In order to view the decrypted traffic, first add the keys at Edit > Preferences > Protocols> Zigbee > Keys. 
+Default link key: 5A6967426565416C6C69616E63653039
+Network key: 3c3465cf5c9eb97dbdb187050842224e

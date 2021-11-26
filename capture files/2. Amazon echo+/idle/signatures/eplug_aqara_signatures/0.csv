@@ -1,0 +1,4 @@
+Timestamp,Time,Source,Destination,Packet_length,Payload_length,Sequence_number,Mac,Src_device,Dst_device,Burst,Gap
+1621715213,2021-05-22 16:26:53,0x00000000,0x0000e6a1,50,13,48,90:fd:9f:ff:fe:68:e7:6a,ZC,ZR,1,549
+1621715213,2021-05-22 16:26:53,0x0000e6a1,0x00000000,45,8,83,00:15:8d:00:02:ab:2f:22,ZR,ZC,1,549
+1621715213,2021-05-22 16:26:53,0x0000e6a1,0x00000000,53,16,85,00:15:8d:00:02:ab:2f:22,ZR,ZC,1,549
